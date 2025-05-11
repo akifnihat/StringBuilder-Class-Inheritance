@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\bin\Debug\net8.0\class inheritance.exe
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\bin\Debug\net8.0\class inheritance.deps.json
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\bin\Debug\net8.0\class inheritance.runtimeconfig.json
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\bin\Debug\net8.0\class inheritance.dll
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\bin\Debug\net8.0\class inheritance.pdb
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.AssemblyInfo.cs
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.dll
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\refint\class inheritance.dll
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.pdb
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\class inheritance.genruntimeconfig.cache
+C:\Users\HP\Desktop\StringBuilder Class Inheritance\class inheritance\class inheritance\obj\Debug\net8.0\ref\class inheritance.dll
