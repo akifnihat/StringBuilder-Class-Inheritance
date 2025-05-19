@@ -9,7 +9,7 @@ namespace class_inheritance.Models
         public double FuelFor1Km;
         public double CurrentFuel;
 
-        public Car(string brand, string model, int fuelCapacity, double fuelFor1Km, double currentFuel,string color,int year)
+        public Car(string brand, string model, int fuelCapacity, double fuelFor1Km, double currentFuel,string color,int year):base (color, year)
         {
             Brand = brand;
             Model = model;
